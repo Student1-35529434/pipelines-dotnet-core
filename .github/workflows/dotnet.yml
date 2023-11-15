@@ -11,7 +11,6 @@
 # To configure this workflow:
 #
 # 1. Configure environment variables
-# GitHub sets default environment variables for every workflow run.
 # Replace the variables relative to your project in the "env" section below.
 #
 # 2. Signing
